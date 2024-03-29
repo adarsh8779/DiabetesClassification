@@ -15,5 +15,5 @@ You can install the required Python packages using pip:
 
 ## Dataset
 
-The dataset used for training and evaluating the models can be found at [LinkDataSet](https://www.kaggle.com/datasets/mathchi/diabetes-data-set).
+The dataset used for training and evaluating the models can be found at [DataSet Link](https://www.kaggle.com/datasets/mathchi/diabetes-data-set).
 
